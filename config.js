@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Mừng ngày Phụ nữ Việt Nam 20/10",
     introTitle: 'Thân gửi các bạn nữ của gia đình HWC',
-    introDesc: `Best regards for our dearest girls`,
+    introDesc: 'Best regards for our dearest girls',
     btnIntro: '^^HiHi^^',
     title: 'hãy có một ngày 20/10 thật vui vẻ và hạnh phúc bên người thân nhá 🥰',
     desc: 'omke khum? trả lời. ',
